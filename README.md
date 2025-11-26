@@ -1,4 +1,4 @@
-# 🏛️ va legislation file tree
+# 🏛️ Virginia legislation file tree
 
 Download a copy of your states legislation.
 

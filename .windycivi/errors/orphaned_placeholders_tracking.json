@@ -1,0 +1,11 @@
+{
+  "HB30": {
+    "event_count": 0,
+    "first_seen": "2026-07-03T13:40:07.728270",
+    "last_seen": "2026-07-03T13:40:07.728270",
+    "occurrence_count": 1,
+    "path": "country:us/state:va/sessions/2026S1/bills/HB30",
+    "session": "2026S1",
+    "vote_count": 10
+  }
+}
